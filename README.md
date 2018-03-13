@@ -1,3 +1,3 @@
-# My-Project
+# Sudoku
 
-This is a test!
+This is a Sudoku game!
